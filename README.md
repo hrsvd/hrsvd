@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi there 👋 I'm Harshvardhan Singh
 
-<!--
-**harshvardhansingh7/harshvardhansingh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI & Backend Engineer passionate about building developer infrastructure for the AI era.
 
-Here are some ideas to get you started:
+Currently building **Remem**, an AI-native semantic cache that makes LLM applications faster, cheaper, and smarter by reusing previous executions through semantic understanding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests lie at the intersection of:
+
+- 🤖 AI Infrastructure
+- ⚡ LLM Systems
+- 🧠 Semantic Caching
+- 🏗 System Design
+- ☁ Backend Engineering
+- 📦 Open Source
+
+I enjoy building production-ready software rather than tutorial projects and love solving performance and infrastructure problems.
+
+Currently exploring:
+- Agent Memory
+- RAG Systems
+- Distributed Systems
+- Vector Search
+- AI SDK Design
+
+## 🚀 Featured Project
+
+### Remem
+
+An AI-native Local Semantic RAG Cache for LLM applications.
+
+Features:
+- Semantic Cache
+- Zero Configuration
+- Local-first
+- Pluggable Storage
+- Embedding Providers
+- Intelligent Similarity Search
+- Fast API
+- Open Source
+
+Goal:
+Become the Redis for AI memory.
+
+## 🌱 Currently
+
+- Building Remem v0.x
+- Learning Distributed Systems
+- Studying Advanced System Design
+- Contributing to Open Source
+## 🛠 Tech
+
+Python
+
+Java
+
+Spring Boot
+
+FastAPI
+
+Redis
+
+PostgreSQL
+
+Docker
+
+GitHub Actions
+
+LLMs
+
+RAG
+
+LangChain
+
+OpenAI
+
+Ollama
+
+FAISS
+
+ChromaDB
