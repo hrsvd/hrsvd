@@ -1,80 +1,58 @@
-# Hi there 👋 I'm Harshvardhan Singh
+<div align="center">
 
-I'm an AI & Backend Engineer passionate about building developer infrastructure for the AI era.
+# Harshvardhan Singh
 
-Currently building **Remem**, an AI-native semantic cache that makes LLM applications faster, cheaper, and smarter by reusing previous executions through semantic understanding.
+### AI Infrastructure Engineer • Backend Engineer • Open Source Builder
 
-My interests lie at the intersection of:
+Building developer infrastructure for modern AI applications.
 
-- 🤖 AI Infrastructure
-- ⚡ LLM Systems
-- 🧠 Semantic Caching
-- 🏗 System Design
-- ☁ Backend Engineering
-- 📦 Open Source
+<p>
+<a href="https://github.com/harshvardhansingh7"><img src="https://img.shields.io/github/followers/harshvardhansingh7?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/harshvardhansingh7/remem"><img src="https://img.shields.io/github/stars/harshvardhansingh7/remem?style=for-the-badge&label=Remem"></a>
+<img src="https://img.shields.io/badge/Open%20Source-Builder-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI-Infrastructure-purple?style=for-the-badge">
+</p>
 
-I enjoy building production-ready software rather than tutorial projects and love solving performance and infrastructure problems.
+</div>
 
-Currently exploring:
-- Agent Memory
-- RAG Systems
-- Distributed Systems
-- Vector Search
-- AI SDK Design
+---
 
-## 🚀 Featured Project
+### 🚀 What I Do
 
-### Remem
+- Build **AI infrastructure** and developer tools.
+- Design **high-performance backend systems**.
+- Engineer **LLM, RAG, and semantic caching** solutions.
+- Build open-source software with a focus on developer experience.
 
-An AI-native Local Semantic RAG Cache for LLM applications.
+### ⭐ Featured Work
 
-Features:
-- Semantic Cache
-- Zero Configuration
-- Local-first
-- Pluggable Storage
-- Embedding Providers
-- Intelligent Similarity Search
-- Fast API
-- Open Source
+**Remem** — AI-native Semantic Cache for LLM applications.
 
-Goal:
-Become the Redis for AI memory.
+> *"Redis remembers keys. Remem remembers intelligence."*
 
-## 🌱 Currently
+Building a reusable execution engine for Retrieval, RAG, Agent workflows, and LLM pipelines to reduce latency and inference cost.
 
-- Building Remem v0.x
-- Learning Distributed Systems
-- Studying Advanced System Design
-- Contributing to Open Source
-## 🛠 Tech
+### 🛠️ Tech Stack
 
-Python
+**Languages** · Python · Java
 
-Java
+**AI** · LLMs · RAG · LangChain · FAISS · ChromaDB · Ollama
 
-Spring Boot
+**Backend** · FastAPI · Spring Boot · PostgreSQL · Redis · Docker
 
-FastAPI
+### 🏆 Highlights
 
-Redis
+- 🚀 Creator of **Remem**, an open-source AI infrastructure project.
+- 📦 Publishing developer tools on **PyPI**.
+- 📖 Exploring distributed systems, AI infrastructure, and system design.
+- 🌱 Building production-grade software instead of tutorial projects.
 
-PostgreSQL
+---
 
-Docker
+<div align="center">
 
-GitHub Actions
+### Connect
 
-LLMs
+<a href="https://linkedin.com/in/harshvardhan-singh-66035923a">LinkedIn</a>
 
-RAG
-
-LangChain
-
-OpenAI
-
-Ollama
-
-FAISS
-
-ChromaDB
+</div>
