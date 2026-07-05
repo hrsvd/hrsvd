@@ -7,8 +7,8 @@
 Building developer infrastructure for modern AI applications.
 
 <p>
-<a href="https://github.com/hrsvd"><img src="https://img.shields.io/github/followers/harshvardhansingh7?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/hrsvd/remem"><img src="https://img.shields.io/github/stars/harshvardhansingh7/remem?style=for-the-badge&label=Remem"></a>
+<a href="https://github.com/hrsvd"><img src="https://img.shields.io/github/followers/hrsvd?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/hrsvd/remem"><img src="https://img.shields.io/github/stars/hrsvd/remem?style=for-the-badge&label=Remem"></a>
 <img src="https://img.shields.io/badge/Open%20Source-Builder-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/AI-Infrastructure-purple?style=for-the-badge">
 </p>
