@@ -53,6 +53,6 @@ Building a reusable execution engine for Retrieval, RAG, Agent workflows, and LL
 
 ### Connect
 
-<a href="https://linkedin.com/in/harshvardhan-singh-66035923a">LinkedIn</a>
+<a href="https://www.linkedin.com/in/harshvardhansingh-in/">LinkedIn</a>
 
 </div>
