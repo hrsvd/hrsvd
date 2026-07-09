@@ -26,7 +26,7 @@ Building developer infrastructure for modern AI applications.
 
 ### ⭐ Featured Work
 
-**Remem** — AI-native Semantic Cache for LLM applications.
+**Remem** - AI-native Semantic Cache for LLM applications.
 
 > *"Redis remembers keys. Remem remembers intelligence."*
 
