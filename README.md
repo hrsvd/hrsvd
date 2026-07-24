@@ -7,7 +7,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/EXPLORE_PORTFOLIO-hrsvd.dev-7DF9FF?style=for-the-badge\&logo=vercel\&logoColor=black)](https://hrsvd.dev)
+[![Portfolio](https://img.shields.io/badge/EXPLORE_PORTFOLIO-hrsvd.dev-7DF9FF?style=for-the-badge\&logo=vercel\&logoColor=black)]([https://hrsvd.dev](https://harshvardhan-knowledge-universe.rabiotrabion.chatgpt.site/))
 [![GitHub](https://img.shields.io/badge/SOURCE_NODE-@hrsvd-181717?style=for-the-badge\&logo=github)](https://github.com/hrsvd)
 [![LinkedIn](https://img.shields.io/badge/NETWORK_LINK-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/harshvardhansingh-in/)
 [![Email](https://img.shields.io/badge/COMMUNICATION_CHANNEL-Open-FF4D8D?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:harshvardhan1483@gmail.com)
